@@ -23,7 +23,6 @@
 
 Install directly from the VS Code Marketplace:
 
-```bash
 ext install cheudon.cheorseguardian
 Or manually:
 
